@@ -5,6 +5,7 @@ C++端（注意yolov5.cpp文件为yolo结构源码）
 克隆两个项目仓库得到模型文件yolov5sv3.pt
 
 git clone https://github.com/hlld/tensorrt-yolov5.git
+
 git clone https://github.com/ultralytics/yolov5.git
 
 将tensorrt-yolov5目录下的gen_wts.py脚本，复制到ultralytics/yolov5项目根目录（确保gen_wts.py脚本里配置的权重名、生成文件名都是yolov5sv3.pt和yolov5sv3.wts）
@@ -36,6 +37,7 @@ sudo ./yolov5 -s s
 sudo ./yolov5 -e s -d  ../images
 
 会自动处理images文件夹里的图片
+
 
 Python端
 

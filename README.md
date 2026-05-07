@@ -56,3 +56,7 @@ Python加载TensorRT模型运行推理
 python yolov5_trt.py
 
 即可通过Python调用TensorRT模型做推理
+
+
+
+！[image](result_truth（1）.png)

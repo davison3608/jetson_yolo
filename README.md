@@ -39,6 +39,10 @@ sudo ./yolov5 -e s -d  ../images
 会自动处理images文件夹里的图片  
 
 
+
+
+
+
 Python端
 
 Python加载TensorRT模型运行推理

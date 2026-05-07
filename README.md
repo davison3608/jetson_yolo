@@ -1,4 +1,4 @@
-C++端（注意yolov5.cpp文件为yolo结构源码）
+<font color="#FF5722">C++端（注意yolov5.cpp文件为yolo结构源码）</font>
 
 一、从torch权重文件生成yolov5sv3.wts文件
 
@@ -43,7 +43,7 @@ sudo ./yolov5 -e s -d  ../images
 
 
 
-Python端
+<font color="#FF5722">Python端<font>
 
 Python加载TensorRT模型运行推理
 

@@ -59,4 +59,4 @@ python yolov5_trt.py
 
 
 
-![image](result_truth（1）.jpg)
+![image](result_truth(1).jpg)

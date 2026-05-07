@@ -36,7 +36,7 @@ sudo ./yolov5 -s s
 
 sudo ./yolov5 -e s -d  ../images
 
-会自动处理images文件夹里的图片
+会自动处理images文件夹里的图片  
 
 
 Python端
